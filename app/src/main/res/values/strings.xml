@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">projeto_integrador_kt</string>
+
+    <string name="hint_email">E-mail:</string>
+    <string name="hint_senha">Senha:</string>
+    <string name="hint_cpf">CPF:</string>
+    <string name="hint_telefone">Telefone:</string>
+    <string name="txt_button_entrar">Entrar</string>
+    <string name="txt_tela_cadastro">Novo aqui? Cadastre-se</string>
+    <string name="hint_nome">Digite seu nome completo</string>
+</resources>

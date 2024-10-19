@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "246210321545",
+    "firebase_url": "https://site-eccomerce-89d44-default-rtdb.firebaseio.com",
+    "project_id": "site-eccomerce-89d44",
+    "storage_bucket": "site-eccomerce-89d44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246210321545:android:cb48ce7939eeb388c37a58",
+        "android_client_info": {
+          "package_name": "com.example.projeto_integrador"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2winmhgLiMu-ReVnLKa2RmsvcFe2BNqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246210321545:android:e3383310120b8a0ac37a58",
+        "android_client_info": {
+          "package_name": "com.example.projeto_integrador_kt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2winmhgLiMu-ReVnLKa2RmsvcFe2BNqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
